@@ -3,7 +3,7 @@
 
 A decentralized game built with Vue and Solidity!
 
-Create your own lottery and partecipate to other users lotteries using the power of the bockchain! Check the [live](http://raffletruffle.com) running on Ropsten Network! - Make sure to have [Metamask] installed and connected the Ropesten Network
+Create your own lottery and partecipate to other users lotteries using the power of the bockchain! Check the [live](http://raffletruffle.com) running on Ropsten Network! - Make sure to have [Metamask](https://metamask.io/) installed and connected the Ropesten Network
 RaffleTruffle is a midterm project for Siraj Raval's blockcahin course on [theschool.ai](https://theschool.ai) 
 
 ### Game description
