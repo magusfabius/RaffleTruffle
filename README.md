@@ -1,5 +1,5 @@
 # RaffleTruffle
-[UNDER DEVELOPMENT]
+[UNDER DEVELOPMENT] (it means the code is buggy af)
 
 A decentralized game built with Vue and Solidity!
 
@@ -29,9 +29,25 @@ Install [Truffle](http://truffleframework.com/docs/getting_started/installation)
 Install the dependencies and start the server.
 
 ```sh
+ git clone https://github.com/magusfabius/RaffleTruffle
+ cd raffle-truffle
  npm install
+ truffle compile
+ truffle migrate
+ truffle test
  npm run dev
 ```
+
+### Resources and inspiration
+Warm up with Solidity and tools
+- https://cryptozombies.io/
+- http://truffleframework.com/tutorials/pet-shop
+
+From backend to frontend
+- https://itnext.io/create-your-first-ethereum-dapp-with-web3-and-vue-js-c7221af1ed82
+
+Implementation of a lottery
+- https://medium.com/@promentol/lottery-smart-contract-can-we-generate-random-numbers-in-solidity-4f586a152b27
 
 
 
